@@ -6,17 +6,18 @@ EmoDetect is an Android app that uses advanced whisper AI technology to detect e
 
 ## Screenshots
 
-[![1](https://ibb.co/tQPL0Pp)](https://ibb.co/tQPL0Pp)
+![1](https://ibb.co/tQPL0Pp)
 
 *Screenshot 1: EmoDetect main screen*
 
 
-![Screenshot 2](https://github.com/YuvrajxChopra/EmoDetect---Emotion_Detect_App/blob/master/2.png)
+![2](https://ibb.co/f0VZcjs)
 
 *Screenshot 2: Uploading an image to EmoDetect*
 
 
-![Screenshot 3](https://github.com/YuvrajxChopra/EmoDetect---Emotion_Detect_App/blob/master/3.png)
+![3](https://ibb.co/G3cRYDp)
+
 
 *Screenshot 3: EmoDetect analyzing the uploaded image*
 
